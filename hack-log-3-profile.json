@@ -1,0 +1,290 @@
+{
+  "defaultAction": "SCMP_ACT_ERRNO",
+  "syscalls": [
+    {
+      "name": "access",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "arch_prctl",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "bind",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "brk",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "chown",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "clone",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "close",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "connect",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "epoll_create",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "epoll_ctl",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "epoll_wait",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "execve",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "exit_group",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "fcntl",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "fstat",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "getdents",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "geteuid",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "getrlimit",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "gettid",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "htons",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "ioctl",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "io_setup",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "listen",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "lseek",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "mkdir",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "mmap",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "mprotect",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "munmap",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "open",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "openat",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "prctl",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "pread",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "pwrite",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "read",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "recvfrom",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "recvmsg",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "rt_sigaction",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "rt_sigprocmask",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "rt_sigreturn",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "rt_sigsuspend",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "sendmsg",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "setgid",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "setgroups",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "setitimer",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "set_robust_list",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "setsockopt",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "set_tid_address",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "setuid",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "shutdown",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "socket",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "socketpair",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "stat",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "uname",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "unlink",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "WIFEXITED",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "write",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    },
+    {
+      "name": "writev",
+      "action": "SCMP_ACT_ALLOW",
+      "args": null
+    }
+  ]
+}

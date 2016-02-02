@@ -1,0 +1,13 @@
+Feb 2, 2016
+
+Let's finish off what I started in the third hack log - installing a kernel... actually, that's only part of it. The main goal is to get seccomp to secure a Docker container.
+
+Alrighty, I have an existing Xubuntu virtual machine. It took me a while to figure out the convoluted method for installing the VirtualBox guest additions and picking the right bridged network to connect to the VM. Now I'm able to ssh into the host machine from the VM, ultimately allowing for sftp access.
+
+Time to sftp over the kernel .deb files and install them using dpkg. (Sometimes you love and sometimes you hate package managers eh?)
+
+Crap.
+
+This VM I had lying around is i386 based. I need amd64. Time to go install a new system. Fml.
+
+Here goes another hour of waiting for stuff.
