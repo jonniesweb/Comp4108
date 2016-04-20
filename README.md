@@ -21,30 +21,32 @@ In addition to class participation, we were required to write a short reading an
 I've included each hacking journal and reading analysis in this repository for safekeeping and to share what Comp 4108 is all about to prospective or current students.
 
 ### Here's the midterm and exam
+
 [Exam](../../raw/master/exam.pdf)
+
 [Midterm](../../raw/master/midterm.pdf)
 
 
 ### Hacking Journals
 
-[Hacking Jounral 1](hack-log-1.txt)
+[Hacking Journal 1](hack-log-1.md)
 
-[Hacking Jounral 2](hack-log-2.txt)
+[Hacking Journal 2](hack-log-2.md)
 
-[Hacking Jounral 3](hack-log-3.txt)
+[Hacking Journal 3](hack-log-3.md)
 
-[Hacking Jounral 4](hack-log-4.txt)
+[Hacking Journal 4](hack-log-4.md)
 
-[Hacking Jounral 5](hack-log-5.txt)
+[Hacking Journal 5](hack-log-5.md)
 
 ### Reading Analyses
 
-[Reading Analysis 1](reading-analysis-1.txt)
+[Reading Analysis 1](reading-analysis-1.md)
 
-[Reading Analysis 2](reading-analysis-2.txt)
+[Reading Analysis 2](reading-analysis-2.md)
 
-[Reading Analysis 3](reading-analysis-3.txt)
+[Reading Analysis 3](reading-analysis-3.md)
 
-[Reading Analysis 4](reading-analysis-4.txt)
+[Reading Analysis 4](reading-analysis-4.md)
 
-[Reading Analysis 5](reading-analysis-5.txt)
+[Reading Analysis 5](reading-analysis-5.md)
