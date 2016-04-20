@@ -40,4 +40,11 @@ I've included each hacking journal and reading analysis in this repository for s
 ### Reading Analyses
 
 [Reading Analysis 1](reading-analysis-1.txt)
-[Reading Analysis 1](reading-analysis-1.txt)
+
+[Reading Analysis 2](reading-analysis-2.txt)
+
+[Reading Analysis 3](reading-analysis-3.txt)
+
+[Reading Analysis 4](reading-analysis-4.txt)
+
+[Reading Analysis 5](reading-analysis-5.txt)
