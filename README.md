@@ -1,9 +1,8 @@
-# Comp 4108 Winter 2016
+# Computer Systems Security - Comp 4108 Winter 2016
 
 Professor: Dr. Anil Somayaji, Carleton University. [Official course website/wiki](http://homeostasis.scs.carleton.ca/wiki/index.php/Computer_Systems_Security_%28Winter_2016%29)
 
-
-This course is a ton of fun. Anil does his best to make the class and it's content interesting.
+This course is a ton of fun. Anil does his best to make the class and its content interesting.
 
 ## What it's like to be in Comp 4108
 
@@ -13,12 +12,10 @@ In the second half of the course we read papers from the USENIX Security '15 con
 
 In addition to class participation, we were required to write a short reading analysis of five to ten of these academic papers.
 
-*(On a side note, I've nicknamed this class the breakfast club since it's pretty much just like shooting the shit with your buddies)*
-![](/images/bc.jpg)
 
 ## The contents of this repository
 
-I've included each hacking journal and reading analysis in this repository for safekeeping and to share what Comp 4108 is all about to prospective or current students.
+I've included each hacking journal and reading analysis in this repository for safekeeping and to share what Computer Systems Security is all about to prospective or current students.
 
 ### Here's the midterm and exam
 
@@ -50,3 +47,9 @@ I've included each hacking journal and reading analysis in this repository for s
 [Reading Analysis 4](reading-analysis-4.md)
 
 [Reading Analysis 5](reading-analysis-5.md)
+
+### Notes
+
+*(On a side note, I've nicknamed this class the breakfast club since it's pretty much just like shooting the crap with your friends)*
+![](/images/bc.jpg)
+
